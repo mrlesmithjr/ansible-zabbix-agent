@@ -1,40 +1,35 @@
-Role Name
-=========
+# Role Name
 
 An [Ansible] role to install/configure [Zabbix] Agent
 
-Requirements
-------------
+## Requirements
 
 None
 
-Role Variables
---------------
+## Role Variables
 
 [Role Defaults](./defaults/main.yml)
 
-Dependencies
-------------
+## Dependencies
 
 None
 
-Example Playbook
-----------------
+## Example Playbook
 
 [Example Playbook](./playbook.yml)
 
-License
--------
+## License
 
-BSD
+MIT
 
-Author Information
-------------------
+## Author Information
 
 Larry Smith Jr.
-- @mrlesmithjr
-- http://everythingshouldbevirtual.com
-- mrlesmithjr [at] gmail.com
 
-[Ansible]: <https://www.ansible.com>
-[Zabbix]: <https://www.zabbix.com>
+-   @mrlesmithjr
+-   <http://everythingshouldbevirtual.com>
+-   mrlesmithjr [at] gmail.com
+
+[ansible]: https://www.ansible.com
+
+[zabbix]: https://www.zabbix.com
