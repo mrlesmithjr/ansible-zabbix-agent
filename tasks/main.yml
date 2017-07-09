@@ -4,3 +4,5 @@
   when: ansible_os_family == "Debian"
 
 - include: configure_zabbix_agent.yml
+
+- include: services.yml

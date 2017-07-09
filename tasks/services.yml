@@ -1,0 +1,7 @@
+---
+- name: services | Ensuring zabbix-server Is Started And Enabled
+  service:
+    name: "zabbix-agent"
+    state: "started"
+    enabled: true
+  become: true
